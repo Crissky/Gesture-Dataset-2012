@@ -1,4 +1,4 @@
-# Gesture-Dataset-2012
+# Gesture Dataset 2012
 
 Conjunto de imagens com gestos ASL gerados pela [Massey University](https://www.massey.ac.nz/~albarcza/gesture_dataset2012.html).
 
