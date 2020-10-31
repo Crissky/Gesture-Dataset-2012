@@ -2,7 +2,9 @@
 
 Conjunto de imagens com gestos ASL gerados pela [Massey University](https://www.massey.ac.nz/~albarcza/gesture_dataset2012.html).
 
-São gestos que representam sinal de 0-9 e A-Z. Onde cada classe possui 70 imagens, salvo a classe "T" que conta com 65 imagens, totalizando 2515 imagens.
+São gestos que representam sinal de 0-9 e A-Z com todas as imagens em formato PNG e modo RGB, com as mãos segmentadas por cores e com fundo preto (0,0,0). Onde cada classe possui 70 imagens, salvo a classe "T" que conta com 65, totalizando 2515 imagens distribuídas em 36 classes.
+
+observação: A imagem da classe "G", "hand5_g_bot_seg_3_cropped.png", possui artefatos.
 
 Para referenciar usando bibtex:
 ```
